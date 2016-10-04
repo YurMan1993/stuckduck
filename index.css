@@ -3,6 +3,8 @@ body {
 }
 
 #printOutHtml {
+	position: absolute;
+	margin-left: 33%;
 	text-align: center;
 }
 
