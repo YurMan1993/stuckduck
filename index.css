@@ -6,6 +6,11 @@ body {
 	text-align: center;
 }
 
+#duckDiv {
+	position: absolute;
+	margin-left: 33%;	
+}
+
 #duckImg {
 	display: block; 
 	height:33; 
