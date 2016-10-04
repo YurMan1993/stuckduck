@@ -6,6 +6,10 @@ var items = [ "&lt; Are you missing a semi-colon? /&gt;",
 
 var printOut = function() {
 
+	var audio = document.getElementById("audio");
+    
+	audio.play();
+    
 	var item = items[Math.floor(Math.random() * items.length)];
 
 	document.getElementById("printOutHtml").innerHTML = item;
