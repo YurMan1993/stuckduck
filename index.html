@@ -3,26 +3,13 @@
 <title>Duck Debugger</title>
 <head>
 	<link rel="stylesheet" type="text/css" href="index.css">
-	<script>
-		
-		var items = ["&lt; Are you missing a semi-colon? /&gt;", "&lt; Have You tried turning it on and off again? /&gt;", "&lt; Talk to the duck!!! /&gt;"];
-
-		var printOut = function() {
-			
-			var item = items[Math.floor(Math.random()*items.length)];
-			
-			document.getElementById("printOutHtml").innerHTML = item;
-		}
-		
-	</script>
+	<script src="duck.js"></script>
 </head>
 <body>
-
 	<div>
 		<img id="duckImg" onclick="printOut()" src="rubber-duck.png" border="0" alt="Submit" ></img>	
 	</div>	
 	
 	<h1 id="printOutHtml">&lt; Click Me For Help /&gt;</h1>
-	
 </body>
 </html>
