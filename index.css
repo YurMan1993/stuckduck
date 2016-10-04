@@ -18,11 +18,12 @@ body {
 
 #leftDiv {
 	float: left;
+	margin-top:33%;
 }
 
 #leftDiv p1 {
 	font-family: "Brush Script MT", cursive;
-	font-size: 14px;
+	font-size: 20px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 400;
