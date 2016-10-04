@@ -2,7 +2,7 @@ body {
 	height: 100%;
 }
 
-#printOutHtml {
+#printOutDiv {
 	position: absolute;
 	margin-left: 33%;
 	text-align: center;
