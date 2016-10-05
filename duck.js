@@ -12,6 +12,6 @@ var printOut = function() {
     
 	var item = items[Math.floor(Math.random() * items.length)];
 
-	document.getElementById("printOutHtml").innerHTML = item;
+	document.getElementById("printOutDiv").innerHTML = item;
 }
 		
