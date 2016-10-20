@@ -17,9 +17,7 @@ body {
 }
 
 #duckImg {
-	display: block; 
-	height:33; 
-	width: 33%; 
+	display: block;  
 	margin-top: auto; 
 	margin-bottom: auto; 
 	margin-left: auto; 
