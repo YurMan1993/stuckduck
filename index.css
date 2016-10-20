@@ -25,14 +25,13 @@ body {
 	margin-right: auto;
 }
 
-#leftDiv {
-	float: left;
-	margin-top:5%;
-	margin-left: 33%%;
+#textDiv {
 	position: absolute;
+	margin-top:20%;
+	margin-left: 33%%;
 }
 
-#leftDiv span {
+#textDiv span {
 	font-family: "Brush Script MT", cursive;
 	font-size: 20px;
 	font-style: normal;
