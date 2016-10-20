@@ -11,7 +11,9 @@ body {
 
 #duckDiv {
 	position: absolute;
-	margin-left: 33%;	
+	margin-left: 33%;
+	height: 33%;
+	width: 33%;	
 }
 
 #duckImg {
