@@ -12,12 +12,12 @@ body {
 #duckDiv {
 	position: absolute;
 	margin-left: 33%;
-	height: 33%;
-	width: 33%;	
 }
 
 #duckImg {
-	display: block;  
+	display: block; 
+	height:33; 
+	width: 33%; 
 	margin-top: auto; 
 	margin-bottom: auto; 
 	margin-left: auto; 
